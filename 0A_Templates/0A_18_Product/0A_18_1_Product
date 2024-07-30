@@ -1,18 +1,18 @@
 
 ---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Project Code"]
+aliases: ["Product Code"]
 tags:
-- Project/
+- Product/
 ---
 
-# 🚀 Project -> 
+# 🚀 Product -> 
 ___
 
-## 🧾 Project Description
+## 🧾 Product Description
 - 
 ---
-## 📢 Project information
+## 📢 Product information
 Created:: {{date: DD-MM-YYYY}} {{time}}
 Deadline:: 
 Hibernating:: 
@@ -25,12 +25,12 @@ Platform::
 ___
 ## 🎯 Objective
 
-1. 🟢 Ideal project result
+1. 🟢 Ideal product result
 	1. 
 2. 🟠 Acceptable result
 	1. 
 ## ❓ Expectations
-1. 🟢 Helpful to the project
+1. 🟢 Helpful to the product
 	1. 
 2. 🟠 Roadblocks
 	1. 
@@ -42,5 +42,5 @@ ___
 - 
 ## 📦 Resources 
 - 
-## 📂 Project Logs 
+## 📂 Product Logs 
 - 
