@@ -1,18 +1,18 @@
 
 ---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Project Code"]
+aliases: ["Product Code"]
 tags:
-- Project/
+- Product/
 ---
 
-# 🚀 Project -> 
+# 🚀 Product -> 
 ___
 
-## 🧾 Project Description
+## 🧾 Product Description
 - 
 ---
-## 📢 Project information
+## 📢 Product information
 Created:: {{date: DD-MM-YYYY}} {{time}}
 Deadline:: 
 Hibernating:: 
@@ -23,24 +23,23 @@ Tags::
 Platform:: 
 
 ___
-## 🎯 Objective
+## 🎯 Section Notes
 
-1. 🟢 Ideal project result
+1. 🟢 Section Heading 1
 	1. 
-2. 🟠 Acceptable result
+2. 🟢 Section Heading 2
 	1. 
-## ❓ Expectations
-1. 🟢 Helpful to the project
+3. 🟢 Section Heading 3
 	1. 
-2. 🟠 Roadblocks
+4. 🟢 Section Heading 4
 	1. 
-3. 👶 Naivety
+5. 🟢 Section Heading 5
 	1. 
-4. 👨‍💻 Insights
+6. 🟢 Section Heading 6
 	1. 
 ## ✅ Tasks 
 - 
 ## 📦 Resources 
 - 
-## 📂 Project Logs 
+## 📂 Product Logs 
 - 
